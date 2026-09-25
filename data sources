@@ -1,0 +1,10 @@
+# Data Sources
+
+| Dataset | Version / Year | Local Filename | Source | GitHub Status |
+|---|---|---|---|---|
+| CDC PLACES | 2024 release / 2022 routine-checkup measure | places_county_2024.csv | CDC PLACES | Sample only |
+| HRSA AHRF | 2023–2024 release | ahrf_county_2023_2024.csv | HRSA AHRF | Source URL |
+| HRSA HPSA Primary Care | Downloaded 2026-09-25 | hpsa_primary_care_2026-09-25.csv | HRSA | Sample only |
+| HRSA HPSA Mental Health | Downloaded 2026-09-25 | hpsa_mental_health_2026-09-25.csv | HRSA | Sample only |
+| HRSA HPSA Dental | Downloaded 2026-09-25 | hpsa_dental_health_2026-09-25.csv | HRSA | Sample only |
+| CDC/ATSDR SVI | 2022 | svi_county_2022.csv | CDC/ATSDR | Full file |
